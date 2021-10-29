@@ -1,0 +1,23 @@
+{
+  "name": "4-in-a-row",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mvc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shacharmalka1/4-in-a-row.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shacharmalka1/4-in-a-row/issues"
+  },
+  "homepage": "https://github.com/shacharmalka1/4-in-a-row#readme",
+  "dependencies": {
+    "sweetalert2": "^11.1.9"
+  }
+}
